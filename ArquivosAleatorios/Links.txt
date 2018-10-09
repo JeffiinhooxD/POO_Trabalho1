@@ -1,0 +1,2 @@
+https://pt.stackoverflow.com/questions/11045/express%C3%A3o-regular-para-validar-um-campo-que-aceita-cpf-ou-cnpj
+https://www.devmedia.com.br/validando-o-cpf-em-uma-aplicacao-java/22097
